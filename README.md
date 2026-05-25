@@ -2,8 +2,6 @@
 NPCBot Panel es un addon ligero para World of Warcraft en servidores privados que usan el mod NPCBots. En lugar de escribir comandos en el chat cada vez, tendrás un panel visual con botones organizados en pestañas.
 
 # 🇪🇸 Español
-¿Qué es NPCBot Panel?
-NPCBot Panel es un addon ligero para World of Warcraft en servidores privados que usan el mod NPCBots. En lugar de escribir .npcbot command standstill en el chat cada vez, tendrás un panel visual con botones organizados en pestañas.
 ✨ Características
 
 🖱️ Botones clickables para todos los comandos principales de NPCBot
