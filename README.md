@@ -43,7 +43,8 @@ NPCBotPanel/
 └── README.md          # Este archivo
 
 
-<img width="3840" height="2160" alt="Wow npcbpanel" src="https://github.com/user-attachments/assets/7ac04530-9367-44f5-be14-a186d0939283" />
+<img width="3840" height="2160" alt="Wow 2026-06-22 09-08-53" src="https://github.com/user-attachments/assets/6a217773-76af-47f1-9a2d-c6577bc07d34" />
+
 
 
 
